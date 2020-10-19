@@ -4,13 +4,13 @@
 * Achieved 90% convergence and extended the application for aggregate computation using Push-Sum algorithm.
 
 ### Largest network used: 
-1) For Gossip algorithm: 
+* For Gossip algorithm: 
     * Full network topology: 10000 nodes  
     * Imperfect 2D topology: 10000 nodes 
     * 2D topology: 10000 nodes 
     * Line topology: 10000 nodes 
  
-2) For Push-Sum algorithm: 
+* For Push-Sum algorithm: 
     * Full network topology: 10000 nodes  
     * Imperfect 2D topology: 10000 nodes 
     * 2D topology: 10000 nodes 
