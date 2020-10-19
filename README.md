@@ -1,4 +1,4 @@
-# Gossip Simulator for Distributed Systems
+# Gossip Protocol for Distributed Systems
 * Implemented Gossip Protocol for information propgation in distributed systems using Akka.NET asynchronous actor facility.
 * Applied the algorithm on 4 different topologies (Line, 2D, Imperfect 2D, Full Network) to compare algorithm convergence and performance. 
 * Achieved 90% convergence and extended the application for aggregate computation using Push-Sum algorithm.
