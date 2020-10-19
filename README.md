@@ -5,16 +5,16 @@
 
 ### Largest network used: 
 1) For Gossip algorithm: 
-  a) Full network topology: 10000 nodes  
-  b) Imperfect 2D topology: 10000 nodes 
-  c) 2D topology: 10000 nodes 
-  d) Line topology: 10000 nodes 
+  * Full network topology: 10000 nodes  
+  * Imperfect 2D topology: 10000 nodes 
+  * 2D topology: 10000 nodes 
+  * Line topology: 10000 nodes 
  
 2) For Push-Sum algorithm: 
-  a) Full network topology: 10000 nodes  
-  b) Imperfect 2D topology: 10000 nodes 
-  c) 2D topology: 10000 nodes 
-  d) Line topology: 1000 nodes 
+  * Full network topology: 10000 nodes  
+  * Imperfect 2D topology: 10000 nodes 
+  * 2D topology: 10000 nodes 
+  * Line topology: 1000 nodes 
   
 ### Execution Command: 
 (Example: Gossip algorithm on Full Network Topology with 100 Nodes): 
