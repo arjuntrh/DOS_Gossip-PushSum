@@ -16,6 +16,11 @@
     * 2D topology: 10000 nodes 
     * Line topology: 1000 nodes 
   
-### Execution Command: 
-(Example: Gossip algorithm on Full Network Topology with 100 Nodes): 
-dotnet fsi --langversion:preview .\project2.fsx 100 full gossip   
+### To Run the Application:
+* Open a terminal in the project folder and run the command: \
+   &nbsp;&nbsp;&nbsp; ```dotnet fsi --langversion:preview .\project2.fsx 100 arg1 arg2 arg3```
+   * arg1: Number of nodes
+   * arg2: Topology type
+   * arg3: Algorithm name \
+* For example, to run Gossip algorithm on a 2D network with 100 nodes: \
+```dotnet fsi --langversion:preview .\project2.fsx 100 full gossip```
